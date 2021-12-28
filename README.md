@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @thisisvickysingh
+- 👋 Hi, I’m Vicky Singh
 - 👀 I’m interested in ML, DL and AI
 - 🌱 I’m currently learning ML and DL
 - 💞️ I’m looking to collaborate on ML
